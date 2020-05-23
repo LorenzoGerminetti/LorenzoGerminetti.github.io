@@ -66,8 +66,8 @@ Set the grid, fix the width of a class and center all elements
   margin: 0 auto;
   padding-left: 30px;
   padding-right: 30px;
-  padding-bottom:20px;
-  padding-top:20px;
+  padding-bottom:30px;
+  padding-top:30px;
   width: 1600px;
 }
 
@@ -91,7 +91,7 @@ This adds a bottom margin to the selected elements
   background-color: teal;
 }
 
-h1, h2, h3, h4, h5, p, nav, head {
+h1, h2, h4, h5, p, nav, head {
   margin-bottom: 20px;
 }
 
