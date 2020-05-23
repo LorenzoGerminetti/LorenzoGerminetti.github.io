@@ -114,6 +114,13 @@ This adds a bottom margin to the selected elements
   background-color: teal;
 }
 
+nav {
+  display: inline;
+  color: white;
+  float:right;
+  font-size: 18px
+}
+
 h1, h2, h4, h5, p, nav, head {
   margin-bottom: 20px;
 }
@@ -133,7 +140,7 @@ h2 {
 
 h3 {
   font-family: 'Lato', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   color: white;
   margin-left: 33px;
 }
