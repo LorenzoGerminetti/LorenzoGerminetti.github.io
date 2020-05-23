@@ -74,7 +74,7 @@ This adds a bottom margin to the selected elements
   ========================================
 */
 
-h1, h3, h4, h5, p {
+h1, h3, h4, h5, p, nav, head {
   margin-bottom: 20px;
   margin-left: 22px;
 }
