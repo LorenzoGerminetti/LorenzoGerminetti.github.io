@@ -62,6 +62,14 @@ Set the grid, fix the width of a class and center all elements
   width: 896px;
 }
 
+.containerheader {
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color= teal; 
+  width: 100%;
+}
+
 /*
 ==========================
 This adds a bottom margin to the selected elements
