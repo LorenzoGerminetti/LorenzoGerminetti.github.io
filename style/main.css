@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 /*
 ========================
@@ -97,14 +99,12 @@ h1, h2, h4, h5, p, nav, head {
 
 h1 {
   font-family: Merriweather;
-  font-variant: normal;
   font-size: 24px;
   font-weight: bold;
 }
 
 h2 {
   font-family: Merriweather;
-  font-variant: normal;
   font-size: 18px;
   font-weight: bold;
   margin-left: 11px;
@@ -112,7 +112,6 @@ h2 {
 
 h3 {
   font-family: Lato;
-  font-variant: normal;
   font-size: 20px;
   color: white;
 }
