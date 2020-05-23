@@ -66,8 +66,8 @@ Set the grid, fix the width of a class and center all elements
   margin: 0 auto;
   padding-left: 30px;
   padding-right: 30px;
-  background-color= teal; 
-  width: 100%;
+  background-color= teal;
+  width: 960px;
 }
 
 /*
