@@ -59,7 +59,7 @@ Set the grid, fix the width of a class and center all elements
   margin: 0 auto;
   padding-left: 30px;
   padding-right: 30px;
-  width: 880px;
+  width: 800px;
 }
 
 /*
@@ -74,21 +74,21 @@ This adds a bottom margin to the selected elements
   ========================================
 */
 
-h1, h3, h4, h5, p, nav, head {
+h1, h2, h3, h4, h5, p, nav, head {
   margin-bottom: 20px;
   margin-left: 22px;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 32px;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 p {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .first {
